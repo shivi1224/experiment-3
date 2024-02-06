@@ -14,7 +14,7 @@ class Program {
 		// Initialising the Scanner Class
 		Scanner sc = new Scanner(System.in);
 	
-		System.out.println("Enter the Number of elements:"
+		System.out.println("Enter the Number of elements:");
 
 		// Taking the input of N
 		N = sc.nextInt();
